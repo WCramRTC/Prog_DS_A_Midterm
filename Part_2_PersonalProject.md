@@ -119,8 +119,6 @@ This should not be considered short term but a project you will talk about at an
 
 ## Rubric
 
-Adjusting the rubric to reallocate points from "Engagement and Community Interaction" to "Continuous Improvement and Learning," here is the updated table:
-
 | **Criteria**                          | **Points** | **Description**                                                                                                                                                                                                                                                                                 |
 |---------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Project Relevance and Complexity**  | 20         | Assesses how well the project aligns with industry standards and job relevance. The complexity should demonstrate the ability to solve significant problems.                                                                                                                                    |
